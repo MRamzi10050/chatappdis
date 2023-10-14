@@ -6,7 +6,7 @@ const userList = document.getElementById("users");
 // Agora credentials
 const APP_ID = "4a995bb5734d4985863e32fd7931a918";
 const TOKEN =
-  "007eJxTYHily3p7bu0Cfaml27f9vxb1pVzrw4/Cicbzbwr+2/96caeeAoNJoqWlaVKSqbmxSYqJpYWphZlxqrFRWoq5pbFhoqWhxbcfGqkNgYwML9M9WBgZIBDEZ2HITczMY2AAACZNIj4=";
+  "007eJxTYAjM2/5J/WbHdBvRQzxdBo//1GXMYfV5vWu5+DoXrq3ee64rMJgkWlqaJiWZmhubpJhYWphamBmnGhulpZhbGhsmWhpapO/XSm0IZGToWWDHzMgAgSA+C0NuYmYeAwMARkce1Q==";
 const CHANNEL = "main";
 // To use vid and voice
 const client = AgoraRTC.createClient({ mode: "rtc", codec: "vp8" });
